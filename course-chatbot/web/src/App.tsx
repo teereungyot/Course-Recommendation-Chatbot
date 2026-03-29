@@ -104,7 +104,7 @@ function App() {
           <div className="panel">
             <div className="panel-header">
               <h2>ถามคำถาม</h2>
-              <span>Frontend → FastAPI → AI Module</span>
+              <span>(แนะนำวิชาเรียนตามอาชีพ)</span>
             </div>
 
             <form className="form-stack" onSubmit={handleSubmit}>
